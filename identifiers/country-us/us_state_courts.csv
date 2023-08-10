@@ -125,6 +125,7 @@ ocd-division/country:us/state:fl/district_court:2,FL State District Court - 2nd 
 ocd-division/country:us/state:fl/district_court:3,FL State District Court - 3rd District
 ocd-division/country:us/state:fl/district_court:4,FL State District Court - 4th District
 ocd-division/country:us/state:fl/district_court:5,FL State District Court - 5th District
+ocd-division/country:us/state:fl/district_court:6,FL State District Court - 6th District
 ocd-division/country:us/state:fl/circuit_court:1,FL State Circuit Court - 1st District
 ocd-division/country:us/state:fl/circuit_court:2,FL State Circuit Court - 2nd District
 ocd-division/country:us/state:fl/circuit_court:3,FL State Circuit Court - 3rd District
@@ -198,6 +199,9 @@ ocd-division/country:us/state:il/circuit_court:20,IL State Circuit Court - 20th 
 ocd-division/country:us/state:il/circuit_court:21,IL State Circuit Court - 21st District
 ocd-division/country:us/state:il/circuit_court:22,IL State Circuit Court - 22nd District
 ocd-division/country:us/state:il/circuit_court:23,IL State Circuit Court - 23rd District
+ocd-division/country:us/state:in/court_of_appeals:1,IN State Court of Appeals - 1st District
+ocd-division/country:us/state:in/court_of_appeals:2,IN State Court of Appeals - 2nd District
+ocd-division/country:us/state:in/court_of_appeals:3,IN State Court of Appeals - 3rd District
 ocd-division/country:us/state:ks/district_court:1,KS State District Court - 1st District
 ocd-division/country:us/state:ks/district_court:2,KS State District Court - 2nd District
 ocd-division/country:us/state:ks/district_court:3,KS State District Court - 3rd District
@@ -353,11 +357,26 @@ ocd-division/country:us/state:ky/district_court:57,KY State District Court - 57t
 ocd-division/country:us/state:ky/district_court:58,KY State District Court - 58th District
 ocd-division/country:us/state:ky/district_court:59,KY State District Court - 59th District
 ocd-division/country:us/state:ky/district_court:60,KY State District Court - 60th District
-ocd-division/country:us/state:la/court_of_appeals:1,LA State Court of Appeals - 1st District
-ocd-division/country:us/state:la/court_of_appeals:2,LA State Court of Appeals - 2nd District
-ocd-division/country:us/state:la/court_of_appeals:3,LA State Court of Appeals - 3rd District
-ocd-division/country:us/state:la/court_of_appeals:4,LA State Court of Appeals - 4th District
-ocd-division/country:us/state:la/court_of_appeals:5,LA State Court of Appeals - 5th District
+ocd-division/country:us/state:la/court_of_appeals:1,LA State Court of Appeals - 1st Circuit
+ocd-division/country:us/state:la/court_of_appeals:1/district:1,LA State Court of Appeals - 1st Circuit District 1
+ocd-division/country:us/state:la/court_of_appeals:1/district:2,LA State Court of Appeals - 1st Circuit District 2
+ocd-division/country:us/state:la/court_of_appeals:1/district:3,LA State Court of Appeals - 1st Circuit District 3
+ocd-division/country:us/state:la/court_of_appeals:2,LA State Court of Appeals - 2nd Circuit
+ocd-division/country:us/state:la/court_of_appeals:2/district:1,LA State Court of Appeals - 2nd Circuit District 1
+ocd-division/country:us/state:la/court_of_appeals:2/district:2,LA State Court of Appeals - 2nd Circuit District 2
+ocd-division/country:us/state:la/court_of_appeals:2/district:3,LA State Court of Appeals - 2nd Circuit District 3
+ocd-division/country:us/state:la/court_of_appeals:3,LA State Court of Appeals - 3rd Circuit
+ocd-division/country:us/state:la/court_of_appeals:3/district:1,LA State Court of Appeals - 3rd Circuit District 1
+ocd-division/country:us/state:la/court_of_appeals:3/district:2,LA State Court of Appeals - 3rd Circuit District 1
+ocd-division/country:us/state:la/court_of_appeals:3/district:3,LA State Court of Appeals - 3rd Circuit District 1
+ocd-division/country:us/state:la/court_of_appeals:4,LA State Court of Appeals - 4th Circuit
+ocd-division/country:us/state:la/court_of_appeals:4/district:1,LA State Court of Appeals - 4th Circuit District 1
+ocd-division/country:us/state:la/court_of_appeals:4/district:2,LA State Court of Appeals - 4th Circuit District 2
+ocd-division/country:us/state:la/court_of_appeals:4/district:3,LA State Court of Appeals - 4th Circuit District 3
+ocd-division/country:us/state:la/court_of_appeals:5,LA State Court of Appeals - 5th Circuit
+ocd-division/country:us/state:la/court_of_appeals:5/district:1,LA State Court of Appeals - 5th Circuit District 1
+ocd-division/country:us/state:la/court_of_appeals:5/district:2,LA State Court of Appeals - 5th Circuit District 2
+ocd-division/country:us/state:la/court_of_appeals:5/district:3,LA State Court of Appeals - 5th Circuit District 3
 ocd-division/country:us/state:la/district_court:1,LA State District Court - 1st District
 ocd-division/country:us/state:la/district_court:2,LA State District Court - 2nd District
 ocd-division/country:us/state:la/district_court:3,LA State District Court - 3rd District
@@ -400,6 +419,13 @@ ocd-division/country:us/state:la/district_court:39,LA State District Court - 39t
 ocd-division/country:us/state:la/district_court:40,LA State District Court - 40th District
 ocd-division/country:us/state:la/district_court:41,LA State District Court - 41st District
 ocd-division/country:us/state:la/district_court:42,LA State District Court - 42nd District
+ocd-division/country:us/state:la/supreme_court:1,LA State Supreme Court - 1st District
+ocd-division/country:us/state:la/supreme_court:2,LA State Supreme Court - 2nd District
+ocd-division/country:us/state:la/supreme_court:3,LA State Supreme Court - 3rd District
+ocd-division/country:us/state:la/supreme_court:4,LA State Supreme Court - 4th District
+ocd-division/country:us/state:la/supreme_court:5,LA State Supreme Court - 5th District
+ocd-division/country:us/state:la/supreme_court:6,LA State Supreme Court - 6th District
+ocd-division/country:us/state:la/supreme_court:7,LA State Supreme Court - 7th District
 ocd-division/country:us/state:ma/district_court:attleboro,MA State District Court - Attleboro District
 ocd-division/country:us/state:ma/district_court:ayer,MA State District Court - Ayer District
 ocd-division/country:us/state:ma/district_court:barnstable,MA State District Court - Barnstable District
@@ -482,6 +508,13 @@ ocd-division/country:us/state:md/district_court:9,MD State District Court - 9th 
 ocd-division/country:us/state:md/district_court:10,MD State District Court - 10th District
 ocd-division/country:us/state:md/district_court:11,MD State District Court - 11th District
 ocd-division/country:us/state:md/district_court:12,MD State District Court - 12th District
+ocd-division/country:us/state:md/court_of_appeals:1,MD State Court of Appeals - 1st District
+ocd-division/country:us/state:md/court_of_appeals:2,MD State Court of Appeals - 2nd District
+ocd-division/country:us/state:md/court_of_appeals:3,MD State Court of Appeals - 3rd District
+ocd-division/country:us/state:md/court_of_appeals:4,MD State Court of Appeals - 4th District
+ocd-division/country:us/state:md/court_of_appeals:5,MD State Court of Appeals - 5th District
+ocd-division/country:us/state:md/court_of_appeals:6,MD State Court of Appeals - 6th District
+ocd-division/country:us/state:md/court_of_appeals:7,MD State Court of Appeals - 7th District
 ocd-division/country:us/state:me/district_court:augusta,ME State District Court - Augusta District
 ocd-division/country:us/state:me/district_court:bangor,ME State District Court - Bangor District
 ocd-division/country:us/state:me/district_court:belfast,ME State District Court - Belfast District
@@ -777,6 +810,9 @@ ocd-division/country:us/state:ms/circuit_court:19,MS State Circuit Court - 19th 
 ocd-division/country:us/state:ms/circuit_court:20,MS State Circuit Court - 20th District
 ocd-division/country:us/state:ms/circuit_court:21,MS State Circuit Court - 21st District
 ocd-division/country:us/state:ms/circuit_court:22,MS State Circuit Court - 22nd District
+ocd-division/country:us/state:ms/supreme_court:1,MS State Supreme Court - 1st District
+ocd-division/country:us/state:ms/supreme_court:2,MS State Supreme Court - 2nd District
+ocd-division/country:us/state:ms/supreme_court:3,MS State Supreme Court - 3rd District
 ocd-division/country:us/state:mt/district_court:1,MT State District Court - 1st District
 ocd-division/country:us/state:mt/district_court:2,MT State District Court - 2nd District
 ocd-division/country:us/state:mt/district_court:3,MT State District Court - 3rd District
@@ -868,6 +904,18 @@ ocd-division/country:us/state:ne/district_court:9,NE State District Court - 9th 
 ocd-division/country:us/state:ne/district_court:10,NE State District Court - 10th District
 ocd-division/country:us/state:ne/district_court:11,NE State District Court - 11th District
 ocd-division/country:us/state:ne/district_court:12,NE State District Court - 12th District
+ocd-division/country:us/state:ne/court_of_appeals:1,NE State Court of Appeals - 1st District
+ocd-division/country:us/state:ne/court_of_appeals:2,NE State Court of Appeals - 2nd District
+ocd-division/country:us/state:ne/court_of_appeals:3,NE State Court of Appeals - 3rd District
+ocd-division/country:us/state:ne/court_of_appeals:4,NE State Court of Appeals - 4th District
+ocd-division/country:us/state:ne/court_of_appeals:5,NE State Court of Appeals - 5th District
+ocd-division/country:us/state:ne/court_of_appeals:6,NE State Court of Appeals - 6th District
+ocd-division/country:us/state:ne/supreme_court:1,NE State Supreme Court - 1st District
+ocd-division/country:us/state:ne/supreme_court:2,NE State Supreme Court - 2nd District
+ocd-division/country:us/state:ne/supreme_court:3,NE State Supreme Court - 3rd District
+ocd-division/country:us/state:ne/supreme_court:4,NE State Supreme Court - 4th District
+ocd-division/country:us/state:ne/supreme_court:5,NE State Supreme Court - 5th District
+ocd-division/country:us/state:ne/supreme_court:6,NE State Supreme Court - 6th District
 ocd-division/country:us/state:nj/superior_court:1,NJ State Superior Court - 1st Vicinage
 ocd-division/country:us/state:nj/superior_court:2,NJ State Superior Court - 2nd Vicinage
 ocd-division/country:us/state:nj/superior_court:3,NJ State Superior Court - 3rd Vicinage
@@ -1640,3 +1688,10 @@ ocd-division/country:us/state:nc/court_of_appeals:judge,NC Court Of Appeals Judg
 ocd-division/country:us/state:nc/district_court:11a,NC State Court - District 11A
 ocd-division/country:us/state:nc/district_court:19d,NC State Court - District 19D
 ocd-division/country:us/state:nc/superior_court:17d,NC Superior Court District 17D
+ocd-division/country:us/state:ar/court_of_appeals:1,AR State Court of Appeals - 1st District
+ocd-division/country:us/state:ar/court_of_appeals:2,AR State Court of Appeals - 2nd District
+ocd-division/country:us/state:ar/court_of_appeals:3,AR State Court of Appeals - 3rd District
+ocd-division/country:us/state:ar/court_of_appeals:4,AR State Court of Appeals - 4th District
+ocd-division/country:us/state:ar/court_of_appeals:5,AR State Court of Appeals - 5th District
+ocd-division/country:us/state:ar/court_of_appeals:6,AR State Court of Appeals - 6th District
+ocd-division/country:us/state:ar/court_of_appeals:7,AR State Court of Appeals - 7th District
