@@ -415,3 +415,9 @@ ocd-division/country:us/state:ms/place:jackson/ward:4,Jackson MS - ward 4
 ocd-division/country:us/state:ms/place:jackson/ward:5,Jackson MS - ward 5
 ocd-division/country:us/state:ms/place:jackson/ward:6,Jackson MS - ward 6
 ocd-division/country:us/state:ms/place:jackson/ward:7,Jackson MS - ward 7
+ocd-division/country:us/state:ms/public_service_commission:1,Mississippi Public Service Commission Central District
+ocd-division/country:us/state:ms/public_service_commission:2,Mississippi Public Service Commission Northern District
+ocd-division/country:us/state:ms/public_service_commission:3,Mississippi Public Service Commission Southern District
+ocd-division/country:us/state:ms/public_service_commission:central,Mississippi Transportation and Public Service Commissioners Central District
+ocd-division/country:us/state:ms/public_service_commission:northern,Mississippi Transportation and Public Service Commissioners Northern District
+ocd-division/country:us/state:ms/public_service_commission:southern,Mississippi Transportation and Public Service Commissioners Southern District
