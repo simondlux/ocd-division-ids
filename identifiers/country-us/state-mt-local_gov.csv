@@ -91,3 +91,8 @@ ocd-division/country:us/state:mt/place:billings/ward:2,Billings MT - ward 2
 ocd-division/country:us/state:mt/place:billings/ward:3,Billings MT - ward 3
 ocd-division/country:us/state:mt/place:billings/ward:4,Billings MT - ward 4
 ocd-division/country:us/state:mt/place:billings/ward:5,Billings MT - ward 5
+ocd-division/country:us/state:mt/public_service_commission:1,MT Public Service Commission District 1
+ocd-division/country:us/state:mt/public_service_commission:2,MT Public Service Commission District 2
+ocd-division/country:us/state:mt/public_service_commission:3,MT Public Service Commission District 3
+ocd-division/country:us/state:mt/public_service_commission:4,MT Public Service Commission District 4
+ocd-division/country:us/state:mt/public_service_commission:5,MT Public Service Commission District 5
